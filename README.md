@@ -1,9 +1,13 @@
-    <h1>Project Name: NetBridge</h1>
+    #Project Name: NetBridge
     
-    <h2>Description:</h2>
-    <p>NetBridge is a dynamic and user-friendly full stack web application designed to bring people closer together. With NetBridge, users can easily register, create personalized profiles, and expand their social network by adding friends. The platform offers a seamless and engaging experience, allowing users to connect with friends effortlessly.</p>
+   ##Description:
+   
+   NetBridge is a dynamic and user-friendly full stack web application designed to bring people closer together. With NetBridge, users can easily register, create personalized profiles, and expand their social network by adding friends. The platform offers a seamless and engaging experience, allowing users to connect with friends effortlessly.
+   
     
-    <h2>Key Features:</h2>
+    
+    ##Key Features:
+    
     <ul>
         <li><strong>User Registration:</strong> Simple and secure user registration process, ensuring that each user can quickly get started with NetBridge.</li>
         <li><strong>Profile Creation:</strong> Users can create and customize their profiles with personal information, profile pictures, and other details to express their individuality.</li>
