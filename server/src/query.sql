@@ -54,3 +54,8 @@ VALUES (
     SHA2('ioturman1234$',256)
 )
 
+--@block 
+DELETE from  community;
+
+--@block 
+ALTER TABLE community AUTO_INCREMENT = 1;
