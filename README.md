@@ -20,7 +20,7 @@
     <ul>
         <li><strong>Frontend:</strong> Built with React.js for a responsive and interactive user interface.</li>
         <li><strong>Backend:</strong> Powered by Node.js and Express.js to handle server-side operations and API requests.</li>
-        <li><strong>Database:</strong> MongoDB for efficient data storage and retrieval, ensuring scalability and performance.</li>
+        <li><strong>Database:</strong> mySql for efficient data storage and retrieval, ensuring scalability and performance.</li>
         <li><strong>Authentication:</strong> Implemented using JWT (JSON Web Tokens) to secure user sessions and data.</li>
         <li><strong>Styling:</strong> Styled-components or CSS for a modern and clean look.</li>
     </ul>
